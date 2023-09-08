@@ -4,8 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="UI Front Panel State Msg.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/John_Lib/AbstractActorTemplate/UIActorTop Messages/UI Front Panel State Msg/UI Front Panel State Msg.lvclass"/>
-	<Item Name="UI Initialize Msg.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/John_Lib/AbstractActorTemplate/UIActorTop Messages/UI Initialize Msg/UI Initialize Msg.lvclass"/>
-	<Item Name="UI SaveAs Config Msg.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/John_Lib/AbstractActorTemplate/UIActorTop Messages/UI SaveAs Config Msg/UI SaveAs Config Msg.lvclass"/>
-	<Item Name="UIActorTop.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/John_Lib/AbstractActorTemplate/AbstractActorTemplate/UIActorTop.lvclass"/>
+	<Item Name="Auto Create Folder.vi" Type="VI" URL="../Auto Create Folder.vi"/>
+	<Item Name="Auto Find ConfigFile Folder.vi" Type="VI" URL="../Auto Find ConfigFile Folder.vi"/>
+	<Item Name="Top Path.ctl" Type="VI" URL="../Top Path.ctl"/>
+	<Item Name="TopVIPath.vi" Type="VI" URL="../TopVIPath.vi"/>
 </Library>
